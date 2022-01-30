@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    height: 200px;
+}
+.green{
+    background-color: green;
+    color: green
+}
+.red{
+    background-color: red;
+    color: red;
+}
+.space{
+    color: white;
+}
